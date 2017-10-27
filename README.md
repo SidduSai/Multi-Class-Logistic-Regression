@@ -1,4 +1,5 @@
 # Multi-Class-Logistic-Regression
+Perform Classification of 5 types of images using logistic regression.
 
 Classifying images is one of the major application areas of Machine vision. There are several state of the
 art algorithms developed such as AlexNet which uses convolution neural network and other algorithms
